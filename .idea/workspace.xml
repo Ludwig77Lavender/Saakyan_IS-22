@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8cbf7276-533f-4036-9e7b-a0759d82b88d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Reports/PZ_10.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/PZ_10/PZ_10.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PZ_3/PZ_3-2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PZ_4/PZ_4-1.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PZ_4/PZ_4-2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PZ_5/PZ_5-1.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PZ_5/PZ_5-2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PZ_6/PZ_6-1.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PZ_6/PZ_6-2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PZ_6/PZ_6-3.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PZ_7/PZ_7-1.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PZ_7/PZ_7-2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PZ_9/PZ_9.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2XO3R6mSSBBtH9aQ9DvZwPZCDHz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.PZ_10.executor": "Run",
+    "Python.PZ_6-1.executor": "Run",
+    "Python.PZ_6-2.executor": "Run",
+    "Python.PZ_6-3.executor": "Run",
+    "Python.PZ_7-1.executor": "Run",
+    "Python.PZ_7-2.executor": "Run",
+    "Python.PZ_9.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindowRun.ShowToolbar": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore_missing_gitignore": "true",
+    "last_opened_file_path": "C:/Program Files/Python312/python.exe",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cbf7276-533f-4036-9e7b-a0759d82b88d" name="Changes" comment="" />
+      <created>1698486288464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698486288464</updated>
+      <workItem from="1698486290402" duration="3528000" />
+      <workItem from="1698762611511" duration="1320000" />
+      <workItem from="1698764039687" duration="153000" />
+      <workItem from="1698842227630" duration="129000" />
+      <workItem from="1698843764120" duration="75000" />
+      <workItem from="1698844524879" duration="727000" />
+      <workItem from="1699002742547" duration="101000" />
+      <workItem from="1699002859485" duration="760000" />
+      <workItem from="1699003807404" duration="137000" />
+      <workItem from="1699005743681" duration="831000" />
+      <workItem from="1699009733222" duration="11000" />
+      <workItem from="1699010848270" duration="1337000" />
+      <workItem from="1699124202147" duration="6000" />
+      <workItem from="1699124316024" duration="37000" />
+      <workItem from="1699124526446" duration="1162000" />
+      <workItem from="1699277887532" duration="223000" />
+      <workItem from="1699278129110" duration="21000" />
+      <workItem from="1699282805926" duration="1231000" />
+      <workItem from="1699286680333" duration="177000" />
+      <workItem from="1699351005955" duration="2360000" />
+      <workItem from="1699354284176" duration="18000" />
+      <workItem from="1699360234021" duration="73000" />
+      <workItem from="1699370352042" duration="2242000" />
+      <workItem from="1699438995233" duration="29000" />
+      <workItem from="1699439068944" duration="1439000" />
+      <workItem from="1699469823263" duration="10000" />
+      <workItem from="1699474600540" duration="36000" />
+      <workItem from="1699513652333" duration="9000" />
+      <workItem from="1699970090468" duration="211000" />
+      <workItem from="1699973207253" duration="614000" />
+      <workItem from="1700055060964" duration="3000" />
+      <workItem from="1700216677914" duration="16000" />
+      <workItem from="1700217521577" duration="79000" />
+      <workItem from="1700235340130" duration="1583000" />
+      <workItem from="1700237871762" duration="11000" />
+      <workItem from="1700312536627" duration="15000" />
+      <workItem from="1700491608789" duration="800000" />
+      <workItem from="1700580974735" duration="3248000" />
+      <workItem from="1700914474175" duration="942000" />
+      <workItem from="1700916604665" duration="1867000" />
+      <workItem from="1700921344471" duration="1738000" />
+      <workItem from="1701180160375" duration="232000" />
+      <workItem from="1701180407981" duration="234000" />
+      <workItem from="1701180656411" duration="51000" />
+      <workItem from="1701180721138" duration="64000" />
+      <workItem from="1701180800755" duration="20000" />
+      <workItem from="1701791250818" duration="1689000" />
+      <workItem from="1701794548408" duration="4000" />
+      <workItem from="1702294186425" duration="12000" />
+      <workItem from="1702297737928" duration="3000" />
+      <workItem from="1702386250535" duration="31000" />
+      <workItem from="1702388953916" duration="32000" />
+      <workItem from="1702389003455" duration="4245000" />
+      <workItem from="1702427718857" duration="14000" />
+      <workItem from="1702427745092" duration="26000" />
+      <workItem from="1702427929273" duration="95000" />
+      <workItem from="1702462034547" duration="2643000" />
+      <workItem from="1702465256139" duration="1235000" />
+      <workItem from="1702468017770" duration="23000" />
+      <workItem from="1702542970077" duration="190000" />
+      <workItem from="1702543319687" duration="90000" />
+      <workItem from="1702572133429" duration="6137000" />
+      <workItem from="1702578877684" duration="460000" />
+      <workItem from="1702580161683" duration="32000" />
+      <workItem from="1702580719755" duration="2443000" />
+      <workItem from="1703311791363" duration="195000" />
+      <workItem from="1703312133129" duration="754000" />
+      <workItem from="1705700848481" duration="2201000" />
+      <workItem from="1705752083149" duration="315000" />
+      <workItem from="1705755523993" duration="261000" />
+      <workItem from="1705940024247" duration="1430000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_10.coverage" NAME="PZ_10 Coverage Results" MODIFIED="1705941142078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_10" />
+    <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_6_3.coverage" NAME="PZ_6-3 Coverage Results" MODIFIED="1703312638827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_6" />
+    <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_5_2.coverage" NAME="PZ_5-2 Coverage Results" MODIFIED="1701792802370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_5" />
+    <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_3_2.coverage" NAME="PZ_3-2 Coverage Results" MODIFIED="1698764104772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_3" />
+    <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_7_2.coverage" NAME="PZ_7-2 Coverage Results" MODIFIED="1703312710418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_7" />
+    <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_5_1.coverage" NAME="PZ_5-1 Coverage Results" MODIFIED="1701791307572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_5" />
+    <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_7_1.coverage" NAME="PZ_7-1 Coverage Results" MODIFIED="1703312691452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_7" />
+    <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_3_1.coverage" NAME="PZ_3-1 Coverage Results" MODIFIED="1698843804033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_3" />
+    <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_4_2.coverage" NAME="PZ_4-2 Coverage Results" MODIFIED="1700492029131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_4" />
+    <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_6_2.coverage" NAME="PZ_6-2 Coverage Results" MODIFIED="1703312563449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_6" />
+    <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_6_1.coverage" NAME="PZ_6-1 Coverage Results" MODIFIED="1703312543373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_6" />
+    <SUITE FILE_PATH="coverage/Saakyan_IS_22$_PZ_2.coverage" NAME="Код PZ_2 Coverage Results" MODIFIED="1698764128342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_2" />
+    <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_4_1.coverage" NAME="PZ_4-1 Coverage Results" MODIFIED="1699973209955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_4" />
+    <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_9.coverage" NAME="PZ_9 Coverage Results" MODIFIED="1705755662278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_9" />
+  </component>
+</project>
