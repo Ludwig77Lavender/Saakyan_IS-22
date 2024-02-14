@@ -5,13 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cbf7276-533f-4036-9e7b-a0759d82b88d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PZ_11/PZ_11-(1).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PZ_11/PZ_11-(2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PZ_11/file_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PZ_11/file_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PZ_11/text11-1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PZ_11/text11-2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reports/PZ_11.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -180,6 +173,9 @@
       <workItem from="1706952672131" duration="167000" />
       <workItem from="1706952852319" duration="5076000" />
       <workItem from="1706958371639" duration="35000" />
+      <workItem from="1707135717880" duration="1000" />
+      <workItem from="1707291995168" duration="122000" />
+      <workItem from="1707292132372" duration="14000" />
     </task>
     <servers />
   </component>
