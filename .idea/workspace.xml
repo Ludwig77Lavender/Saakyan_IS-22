@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cbf7276-533f-4036-9e7b-a0759d82b88d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PZ_13/PZ_13_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PZ_13/PZ_13_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reports/PZ_13.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PZ_14/PZ_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PZ_14/pazzl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/PZ_14.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +33,7 @@
     <setting file="file://$PROJECT_DIR$/PZ_12/PZ_12-(2).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/PZ_13/PZ_13_1.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/PZ_13/PZ_13_2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PZ_14/PZ_14.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/PZ_3/PZ_3-2.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/PZ_4/PZ_4-1.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/PZ_4/PZ_4-2.py" root0="SKIP_INSPECTION" />
@@ -67,6 +68,7 @@
     "Python.PZ_13-(2).executor": "Run",
     "Python.PZ_13_1.executor": "Run",
     "Python.PZ_13_2.executor": "Run",
+    "Python.PZ_14.executor": "Run",
     "Python.PZ_6-1.executor": "Run",
     "Python.PZ_6-2.executor": "Run",
     "Python.PZ_6-3.executor": "Run",
@@ -92,7 +94,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
       </set>
     </attachedChunks>
   </component>
@@ -194,6 +196,12 @@
       <workItem from="1708191140866" duration="4000" />
       <workItem from="1708499962228" duration="205000" />
       <workItem from="1708500387487" duration="4277000" />
+      <workItem from="1708505132926" duration="835000" />
+      <workItem from="1709291270363" duration="90000" />
+      <workItem from="1709291411788" duration="20000" />
+      <workItem from="1709291442092" duration="13000" />
+      <workItem from="1709708559449" duration="2151000" />
+      <workItem from="1709976202158" duration="3036000" />
     </task>
     <servers />
   </component>
@@ -222,17 +230,18 @@
     <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_7_2.coverage" NAME="PZ_7-2 Coverage Results" MODIFIED="1703312710418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_7" />
     <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_5_1.coverage" NAME="PZ_5-1 Coverage Results" MODIFIED="1701791307572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_5" />
     <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_7_1.coverage" NAME="PZ_7-1 Coverage Results" MODIFIED="1703312691452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_7" />
-    <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_13_1.coverage" NAME="PZ_13_1 Coverage Results" MODIFIED="1708504734710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_13" />
+    <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_13_1.coverage" NAME="PZ_13_1 Coverage Results" MODIFIED="1708505515051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_13" />
     <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_12__2_.coverage" NAME="PZ_12-(2) Coverage Results" MODIFIED="1708500092279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_12" />
     <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_11__2_.coverage" NAME="PZ_11-(2) Coverage Results" MODIFIED="1706958397371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_11" />
     <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_3_1.coverage" NAME="PZ_3-1 Coverage Results" MODIFIED="1698843804033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_3" />
     <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_4_2.coverage" NAME="PZ_4-2 Coverage Results" MODIFIED="1700492029131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_4" />
     <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_6_2.coverage" NAME="PZ_6-2 Coverage Results" MODIFIED="1703312563449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_6" />
     <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_12__1_.coverage" NAME="PZ_12-(1) Coverage Results" MODIFIED="1708500066044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_12" />
-    <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_13_2.coverage" NAME="PZ_13_2 Coverage Results" MODIFIED="1708504738195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_13" />
+    <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_13_2.coverage" NAME="PZ_13_2 Coverage Results" MODIFIED="1708505905648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_13" />
     <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_11__1_.coverage" NAME="PZ_11-(1) Coverage Results" MODIFIED="1706958391288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_11" />
     <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_13__2_.coverage" NAME="PZ_13-(2) Coverage Results" MODIFIED="1708502461375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_13" />
     <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_6_1.coverage" NAME="PZ_6-1 Coverage Results" MODIFIED="1703312543373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_6" />
+    <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_14.coverage" NAME="PZ_14 Coverage Results" MODIFIED="1709978669236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_14" />
     <SUITE FILE_PATH="coverage/Saakyan_IS_22$_PZ_2.coverage" NAME="Код PZ_2 Coverage Results" MODIFIED="1698764128342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_2" />
     <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_4_1.coverage" NAME="PZ_4-1 Coverage Results" MODIFIED="1699973209955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_4" />
     <SUITE FILE_PATH="coverage/Saakyan_IS_22$PZ_9.coverage" NAME="PZ_9 Coverage Results" MODIFIED="1705755662278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_9" />
