@@ -1,69 +1,84 @@
+"""
+Приложение АБИТУРИЕНТ для автоматизации работы
+приемной комиссии, которая обеспечивает обработку
+анкетных данных абитуриентов. Таблица Анкета
+содержит следующие данные об абитуриентах:
+Регистрационный номер, Фамилия, Имя, Отчество,
+Дата Рождения, Награды (наличие кр. Диплома или
+медали (да/нет)), Адрес, выбранная Специальность.
+"""
+
 import sqlite3
 
-# Функция для создания базы данных и таблицы, если они не существуют
-def create_table():
-    conn = sqlite3.connect('opt_base.db')
-    c = conn.cursor()
-    c.execute('''CREATE TABLE IF NOT EXISTS Товары
-                 (Код INTEGER PRIMARY KEY,
-                 Наименование_товара TEXT,
-                 Наименование_магазина TEXT,
-                 Заявки_магазина INTEGER,
-                 Количество_товара INTEGER,
-                 Единицы_измерения TEXT,
-                 Оптовая_цена REAL)''')
-    conn.commit()
-    conn.close()
+with sqlite3.connect("abiturient.db") as conn:
+    cursor = conn.cursor()
+    cursor.execute('''CREATE TABLE IF NOT EXISTS anketa (
+        reg_num INTEGER PRIMARY KEY AUTOINCREMENT,
+        l_name TEXT NOT NULL,
+        f_name TEXT NOT NULL,
+        m_name TEXT,
+        b_date TEXT,
+        awards TEXT,
+        address TEXT,
+        specialty TEXT
+        )''')
 
-# Функция для добавления нового товара
-def add_item(код, наименование, магазин, заявки, количество, единицы, цена):
-    conn = sqlite3.connect('opt_base.db')
-    c = conn.cursor()
-    c.execute("INSERT INTO Товары VALUES (?, ?, ?, ?, ?, ?, ?)",
-              (код, наименование, магазин, заявки, количество, единицы, цена))
-    conn.commit()
-    conn.close()
+# Добавление данных
+def add(l_name, f_name, m_name, b_date, awards, address, specialty):
+    with sqlite3.connect("abiturient.db") as conn:
+        cursor = conn.cursor()
+        cursor.execute('''
+        INSERT INTO anketa (l_name, f_name, m_name, b_date, awards, address, specialty)
+        VALUES (?, ?, ?, ?, ?, ?, ?)
+        ''', (l_name, f_name, m_name, b_date, awards, address, specialty))
 
-# Функция для поиска товара по наименованию магазина
-def find_item_by_shop(магазин):
-    conn = sqlite3.connect('opt_base.db')
-    c = conn.cursor()
-    c.execute("SELECT * FROM Товары WHERE Наименование_магазина=?", (магазин,))
-    items = c.fetchall()
-    conn.close()
-    return items
+# Поиск по фамилии
+def search_by_last_name(l_name):
+    with sqlite3.connect("abiturient.db") as conn:
+        cursor = conn.cursor()
+        cursor.execute('''
+        SELECT * FROM anketa WHERE l_name = ?
+        ''', (l_name,))
+        results = cursor.fetchall()
+        return results
 
-# Функция для удаления товара по коду
-def delete_item(код):
-    conn = sqlite3.connect('opt_base.db')
-    c = conn.cursor()
-    c.execute("DELETE FROM Товары WHERE Код=?", (код,))
-    conn.commit()
-    conn.close()
+# Удаление по номеру регистрации
+def delete(reg_num):
+    with sqlite3.connect("abiturient.db") as conn:
+        cursor = conn.cursor()
+        cursor.execute('''
+        DELETE FROM anketa WHERE reg_num = ?
+        ''', (reg_num,))
 
-# Функция для редактирования информации о товаре
-def edit_item(код, новые_данные):
-    conn = sqlite3.connect('opt_base.db')
-    c = conn.cursor()
-    c.execute("UPDATE Товары SET Наименование_товара=?, Наименование_магазина=?, Заявки_магазина=?, "
-              "Количество_товара=?, Единицы_измерения=?, Оптовая_цена=? WHERE Код=?", (новые_данные[0],
-              новые_данные[1], новые_данные[2], новые_данные[3], новые_данные[4], новые_данные[5], код))
-    conn.commit()
-    conn.close()
+# Замена значения
+def update(reg_num, l_name, f_name, m_name, b_date, awards, address, specialty):
+    with sqlite3.connect("abiturient.db") as conn:
+        cursor = conn.cursor()
+        cursor.execute('''
+        UPDATE anketa
+        SET l_name = ?, f_name = ?, m_name = ?, b_date = ?, awards = ?, address = ?, specialty = ?
+        WHERE reg_num = ?
+        ''', (l_name, f_name, m_name, b_date, awards, address, specialty, reg_num))
 
-# Создаем таблицу, если она еще не создана
-create_table()
+# Вывод данных
+def display_all():
+    with sqlite3.connect('abiturient.db') as conn:
+        cursor = conn.cursor()
+        cursor.execute('''
+        SELECT * FROM anketa
+        ''')
+        results = cursor.fetchall()
+        for row in results:
+            print(row)
 
-# Пример использования функций
-add_item(1, "Шоколад", "Магазин 1", 5, 100, "шт", 50.0)
-add_item(2, "Чай", "Магазин 2", 10, 200, "пакет", 30.0)
+# add('Сидоров', 'Алексей', 'Сергеевич',
+#     '1995-06-12', 'Победитель олимпиады',
+#     'ул. Пушкина, 10', 'Математика')
 
-print(find_item_by_shop("Магазин 1"))
+# delete(1)
 
-edit_item(1, ("Шоколад", "Новый магазин", 8, 150, "шт", 55.0))
+# update(1, 'Иванов', 'Иван', 'Иванович',
+#              '2000-01-01', 'Золотая медаль',
+#              'ул. Ленина, 1', 'Информатика')
 
-print(find_item_by_shop("Новый магазин"))
-
-delete_item(2)
-
-print(find_item_by_shop("Магазин 2"))
+# display_all()
